@@ -1,0 +1,27 @@
+{
+  "name": "tsfix",
+  "version": "0.1.0",
+  "description": "Run tslint with standardjs-like rules and fix issues",
+  "main": "src/fix.sh",
+  "bin": {
+    "tsfix": "src/fix.sh"
+  },
+  "scripts": {
+    "start": "./src/fix.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tslint",
+    "jslint",
+    "eslint",
+    "typescript",
+    "lint",
+    "standardjs",
+    "standardts"
+  ],
+  "author": "Sebastian Müller <mail@sbstjn.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tslint": "^5.2.0"
+  }
+}

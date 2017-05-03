@@ -33,4 +33,4 @@ Feel free to use the code, it's released using the [MIT license](https://github.
 
 You are more than welcome to contribute to this project! 😘
 
-To make sure you have a pleasant experience, please read the [code of conduct](CODE_OF_CONDUCT.md). It outlines the important core values and believes, and will make working together a happier experience.
+To make sure you have a pleasant experience, please read the [code of conduct](https://github.com/sbstjn/tsfix/blob/master/LICENSE.md). It outlines the important core values and believes, and will make working together a happier experience.

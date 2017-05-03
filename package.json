@@ -1,6 +1,6 @@
 {
   "name": "tsfix",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Run tslint with standardjs-like rules and fix issues",
   "main": "src/fix.sh",
   "bin": {

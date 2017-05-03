@@ -1,6 +1,5 @@
 {
   "name": "tsfix",
-  "version": "0.1.2",
   "description": "Run tslint with standardjs-like rules and fix issues",
   "main": "src/fix.sh",
   "bin": {
@@ -8,7 +7,7 @@
   },
   "scripts": {
     "start": "./src/fix.sh",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Done.\""
   },
   "keywords": [
     "tslint",

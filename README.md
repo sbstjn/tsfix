@@ -4,7 +4,7 @@
 [![license](https://img.shields.io/github/license/sbstjn/tsfix.svg)](https://github.com/sbstjn/tsfix/blob/master/LICENSE.md)
 
 
-If you hate to copy the same linter configuration from project to project, `tsfix` is your project! Just install the `tsfix` package and you will be provided with a basic `tslint` configuration and an easy way to lint and auto-fix your code style.
+If you hate to copy the same linter configuration from project to project, `tsfix` is your project! Just install the `tsfix` package and you will be provided with a basic [tslint](https://palantir.github.io/tslint/) configuration and an easy way to lint and auto-fix your code style.
 
 ## Install
 
@@ -28,6 +28,10 @@ $ $(npm bin)/tsfix
 ## License
 
 Feel free to use the code, it's released using the [MIT license](https://github.com/sbstjn/tsfix/blob/master/LICENSE.md).
+
+## Contributors
+
+- [Sebastian Müller](https://github.com/sbstjn)
 
 ## Contribution
 

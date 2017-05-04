@@ -18,6 +18,14 @@
     "standardjs",
     "standardts"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbstjn/tsfix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sbstjn/tsfix/issues"
+  },
+  "homepage": "https://github.com/sbstjn/tsfix#readme",
   "author": "Sebastian Müller <mail@sbstjn.com>",
   "license": "MIT",
   "dependencies": {
